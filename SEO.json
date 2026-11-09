@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "steel-rerolling-mill-software",
+  "description": "Steel & Re-Rolling Mill Software — Heavy Industry Laravel Filament ERP/SaaS for Bangladesh (Chittagong). Steel mill software for billet intake, furnace heats, section output, weighbridge, and dealer dispatch. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "heavy-industry",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/steel-rerolling-mill-software"
+}
